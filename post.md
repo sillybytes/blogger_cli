@@ -1,5 +1,7 @@
 # How do I blog? - Blogger posts from markdown and CLI
 
+![](shot.png)
+
 There are plans to migrate [Silly Bytes](http://sillybytes.net) to
 [Hakyll](https://jaspervdj.be/hakyll/) and GitHub pages, but till then I'm still
 using [Blogger](http://www.blogger.com) and I wanted to make the posting process
